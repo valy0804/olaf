@@ -19,7 +19,7 @@ h1 {
   text-align: center;
   margin: 100px;
   color: rgb(77, 34, 3);
-  font-size: 2em;
+  font-size: 3em;
 }
 
 h2 {
@@ -27,6 +27,7 @@ h2 {
   padding-bottom: 40px;
   color: rgb(77, 34, 3);
   font-size: 35px;
+  padding: 0 160px;
 }
 
 li {
